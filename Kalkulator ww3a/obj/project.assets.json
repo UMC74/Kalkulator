@@ -1,0 +1,57 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": []
+  },
+  "packageFolders": {
+    "/home/pawel/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/pawel/RiderProjects/Kalkulator/Kalkulator/Kalkulator.csproj",
+      "projectName": "Kalkulator",
+      "projectPath": "/home/pawel/RiderProjects/Kalkulator/Kalkulator/Kalkulator.csproj",
+      "packagesPath": "/home/pawel/.nuget/packages/",
+      "outputPath": "/home/pawel/RiderProjects/Kalkulator/Kalkulator/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/pawel/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}

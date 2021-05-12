@@ -1,0 +1,11 @@
+/home/pawel/RiderProjects/Kalkulator/Kalkulator/bin/Debug/netcoreapp3.0/Kalkulator
+/home/pawel/RiderProjects/Kalkulator/Kalkulator/bin/Debug/netcoreapp3.0/Kalkulator.deps.json
+/home/pawel/RiderProjects/Kalkulator/Kalkulator/bin/Debug/netcoreapp3.0/Kalkulator.runtimeconfig.json
+/home/pawel/RiderProjects/Kalkulator/Kalkulator/bin/Debug/netcoreapp3.0/Kalkulator.runtimeconfig.dev.json
+/home/pawel/RiderProjects/Kalkulator/Kalkulator/bin/Debug/netcoreapp3.0/Kalkulator.dll
+/home/pawel/RiderProjects/Kalkulator/Kalkulator/bin/Debug/netcoreapp3.0/Kalkulator.pdb
+/home/pawel/RiderProjects/Kalkulator/Kalkulator/obj/Debug/netcoreapp3.0/Kalkulator.csprojAssemblyReference.cache
+/home/pawel/RiderProjects/Kalkulator/Kalkulator/obj/Debug/netcoreapp3.0/Kalkulator.AssemblyInfoInputs.cache
+/home/pawel/RiderProjects/Kalkulator/Kalkulator/obj/Debug/netcoreapp3.0/Kalkulator.AssemblyInfo.cs
+/home/pawel/RiderProjects/Kalkulator/Kalkulator/obj/Debug/netcoreapp3.0/Kalkulator.dll
+/home/pawel/RiderProjects/Kalkulator/Kalkulator/obj/Debug/netcoreapp3.0/Kalkulator.pdb
